@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5WFGGkA7/4uh+ntFutbEsGRSSX1cEDYXunnSz8rieTtTi0n6Sip2jluxS3Lvmnxdnc2hoFecgyevvwvA2GwQbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uzytkownik\\Desktop\\KalkulatorKofeiny\\KalkulatorKofeiny\\KalkulatorKofeiny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uzytkownik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
